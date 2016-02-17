@@ -1,4 +1,7 @@
 t is cold and dry:wq
+more changes:wq
 
 I am changing locally
 Martin changes it remotely
+
+another change
