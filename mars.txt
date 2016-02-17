@@ -1,4 +1,4 @@
 t is cold and dry:wq
 
-I am changing remotely
+I am changing locally
 Martin changes it remotely
